@@ -6,7 +6,7 @@ image:
   repository: docker.io/aquasec/tracee
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: ""
+  tag: "0.19.0"
 
 imagePullSecrets: []
 nameOverride: ""
